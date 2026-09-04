@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./madavid-research-banner-website-inspired-elucidml-monogram.png" alt="MADavid Research — interpretable biology, imaging, and computation." width="100%">
+  <img src="./madavid-research-banner-website-inspired-elucidml-staggered-cell-data-phd.png" alt="MADavid Research — interpretable biology, imaging, and computation." width="100%">
 </div>
 
 # MADavid Research
