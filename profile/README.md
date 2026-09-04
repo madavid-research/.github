@@ -4,7 +4,7 @@
 
 # MADavid Research
 
-MADavid Research is a collaborative research organization led by **Michael A. David** and built with colleagues and research collaborators.
+MADavid Research is a collaborative research group led by **Michael A. David, PhD** and built with colleagues and research collaborators.
 
 Together, we connect biology, imaging, machine learning, and high-throughput data analytics to make complex evidence more interpretable and useful.
 
@@ -19,11 +19,13 @@ Together, we connect biology, imaging, machine learning, and high-throughput dat
 ## Explore the work
 
 - [MADavid Research on GitHub](https://github.com/madavid-research)
+- [Michael A. David, PhD on GitHub](https://github.com/madavid128)
+- [Michael A. David, PhD website](https://michaeladavid.com)
 - [Research and publications](https://michaeladavid.com/research)
 - [Research programs](https://michaeladavid.com/projects)
 - [Public software](https://michaeladavid.com/software)
 - [Scientific art and visual work](https://michaeladavid.com/art)
-- [MADavid Research website](https://michaeladavid.com)
+
 
 ## Working principles
 
@@ -36,5 +38,5 @@ Our public projects are documented with their purpose, evidence, limitations, an
 For research collaboration, speaking, mentorship, software, or visual-work inquiries, visit the [contact page](https://michaeladavid.com/contact).
 
 <div align="center">
-  <sub>© Michael A. David · MADavid Research</sub>
+  <sub>© Michael A. David, PhD · MADavid Research</sub>
 </div>
